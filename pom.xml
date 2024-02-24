@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.web</groupId>
-	<artifactId>demo-web</artifactId>
+	<artifactId>demoweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo-web</name>
 	<description>Demo web project for Spring Boot</description>
@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
-			<version>5.3.16</version>
+			<version>5.3.17</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
